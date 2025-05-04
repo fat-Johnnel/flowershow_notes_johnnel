@@ -1,3 +1,4 @@
+# Rust 泛型
 # Rust 泛型（Generics）核心知识点总结
 
 ---
