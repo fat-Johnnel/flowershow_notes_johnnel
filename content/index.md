@@ -1,1 +1,2 @@
-# Welcome to my Flowershow site!
+this is a notes, used for testing
+[[sub_index]]
