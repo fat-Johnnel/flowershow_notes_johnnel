@@ -1,4 +1,4 @@
-# 模板代码
+## 模板代码
 ```cpp
 /* 广度优先遍历 */
 // 使用邻接表来表示图，以便获取指定顶点的所有邻接顶点
@@ -28,7 +28,7 @@ vector<Vertex *> graphBFS(GraphAdjList &graph, Vertex *startVet) {
 }
 ```
 
-# 例题
+## 例题
 ### 普及难度
 [P1443马的遍历](https://www.luogu.com.cn/problem/P1443)
 
