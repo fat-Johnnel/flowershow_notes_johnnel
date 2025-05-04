@@ -1,3 +1,4 @@
+# C++异常
 ## try语句块和异常处理
 
 **throw语句：throw _exception_ ;**
